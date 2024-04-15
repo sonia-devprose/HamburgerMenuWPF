@@ -2,7 +2,8 @@
 A WPF .NET Application showcasing a Hamburger Menu.
 
 ![HamburgerMenu-InAction](https://github.com/sonia-devprose/HamburgerMenuWPF/assets/161012720/7341bce4-e776-40a1-b1c1-abf5aa01016a)
-(Sorry for the watermark)
+
+(🤔 Sorry for the watermark)
 
 This repository contains a sample WPF desktop application (.NET 6) demonstrating the implementation of a modern Hamburger Menu using MahApps.Metro, a popular UI library for WPF applications.
 
