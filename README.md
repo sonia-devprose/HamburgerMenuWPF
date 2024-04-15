@@ -2,8 +2,9 @@
 A WPF .NET Application showcasing a Hamburger Menu.
 
 ![HamburgerMenu-InAction](https://github.com/sonia-devprose/HamburgerMenuWPF/assets/161012720/7341bce4-e776-40a1-b1c1-abf5aa01016a)
+(Sorry for the watermark)
 
-This repository contains a sample WPF desktop application demonstrating the implementation of a modern Hamburger Menu using MahApps.Metro, a popular UI library for WPF applications.
+This repository contains a sample WPF desktop application (.NET 6) demonstrating the implementation of a modern Hamburger Menu using MahApps.Metro, a popular UI library for WPF applications.
 
 Steps to Create and Upload to GitHub
 Step 1: Create a New WPF Project
@@ -17,3 +18,9 @@ Right-click on your project in the Solution Explorer.
 Select Manage NuGet Packages.
 Search for MahApps.Metro and install it.
 Note: The Assets folder contain the images.
+
+Here are three benefits of using a Hamburger Menu in a desktop application:
+
+> Screen Space Optimization
+> Responsive design
+> Enhanced Focus on Content
